@@ -1,0 +1,5 @@
+﻿  player.cpp
+d:\hoc\code\gomoku\player.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\hoc\code\gomoku\player.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\hoc\code\gomoku\player.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gomoku.vcxproj -> D:\HOC\code\gomoku\x64\Debug\gomoku.exe
